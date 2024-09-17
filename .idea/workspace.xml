@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="81715a8e-c96e-42d4-ad62-3ed49b3970b6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/labarranca/barrancapp/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/labarranca/barrancapp/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/labarranca/barrancapp/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +70,37 @@
       <option name="presentableId" value="Default" />
       <updated>1726271150312</updated>
     </task>
+    <task id="LOCAL-00001" summary="Delete unnecessary files">
+      <option name="closed" value="true" />
+      <created>1726277482626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726277482626</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1726277505670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726277505670</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create database class">
+      <option name="closed" value="true" />
+      <created>1726277525852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726277525852</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Delete unnecessary files" />
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Create database class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create database class" />
   </component>
 </project>
