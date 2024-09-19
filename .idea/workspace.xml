@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81715a8e-c96e-42d4-ad62-3ed49b3970b6" name="Changes" comment="">
+    <list default="true" id="81715a8e-c96e-42d4-ad62-3ed49b3970b6" name="Changes" comment="Create layout for cowTable and cowForm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/labarranca/barrancapp/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/labarranca/barrancapp/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/labarranca/barrancapp/cowTable.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/labarranca/barrancapp/cowTable.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +29,12 @@
     &quot;assignee&quot;: &quot;rodwayne&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:rodwayne/barrancapp.git",
-    "accountId": "98f2b562-9ac1-48d0-ac99-0d27359bae33"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:rodwayne/barrancapp.git&quot;,
+    &quot;accountId&quot;: &quot;98f2b562-9ac1-48d0-ac99-0d27359bae33&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -55,16 +53,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ricky/Documents/IdeaProjects/barrancapp"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ricky/Documents/IdeaProjects/barrancapp&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,13 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1726277525852</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create layout for cowTable and cowForm">
+      <option name="closed" value="true" />
+      <created>1726711633730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726711633730</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Delete unnecessary files" />
     <MESSAGE value="First commit" />
     <MESSAGE value="Create database class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create database class" />
+    <MESSAGE value="Create layout for cowTable and cowForm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create layout for cowTable and cowForm" />
   </component>
 </project>
