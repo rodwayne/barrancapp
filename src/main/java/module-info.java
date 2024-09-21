@@ -4,6 +4,6 @@ module org.labarranca.barrancapp {
     requires java.sql;
 
 
-    opens org.labarranca.barrancapp to javafx.fxml;
+    opens org.labarranca.barrancapp.controllers to javafx.fxml;
     exports org.labarranca.barrancapp;
 }
