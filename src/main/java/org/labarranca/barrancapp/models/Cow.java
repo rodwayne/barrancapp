@@ -1,20 +1,26 @@
 package org.labarranca.barrancapp.models;
 
+import java.time.LocalDate;
+
 public class Cow {
     private int cowId;
     private String earTag;
     private String breed;
     private String sex;
     private double weight;
-    private String birthdate;
+    private LocalDate birthdate;
 
-    public Cow(int cowId, String earTag, String breed, String sex, double weight, String birthdate) {
+    public Cow(int cowId, String earTag, String breed, String sex, double weight, LocalDate birthdate) {
         this.cowId = cowId;
         this.earTag = earTag;
         this.breed = breed;
         this.sex = sex;
         this.weight = weight;
         this.birthdate = birthdate;
+    }
+
+    public Cow() {
+
     }
 
     public int getCowId() {
@@ -61,11 +67,11 @@ public class Cow {
         this.weight = weight;
     }
 
-    public String getBirthdate() {
+    public LocalDate getBirthdate() {
         return birthdate;
     }
 
-    public void setBirthdate(String birthdate) {
+    public void setBirthdate(LocalDate birthdate) {
         this.birthdate = birthdate;
     }
 }
