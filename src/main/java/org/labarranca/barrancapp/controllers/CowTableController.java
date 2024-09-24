@@ -9,7 +9,7 @@ public class CowTableController {
 
     public void openAddCowForm() {
         try {
-            FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("cowForm.fxml"));
+            FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/org/labarranca/barrancapp/cowForm.fxml"));
             Parent addCowFormRoot = fxmlLoader.load();
             Stage stage = new Stage();
             stage.setTitle("Registrar Vaca");
